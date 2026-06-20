@@ -9,3 +9,10 @@ Solidity developer focused on DeFi. Building hooks, vaults, and yield mechanisms
 **Stack**: Solidity · Foundry · Solady · OpenZeppelin · viem · wagmi
 
 📫 eylulbalcilar@gmail.com
+
+<br>
+
+<a href="https://github.com/eylulbalcilar">
+  <img src="https://github-readme-stats.vercel.app/api?username=eylulbalcilar&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eylulbalcilar&layout=compact&theme=radical&hide_border=true" />
+</a>

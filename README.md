@@ -8,7 +8,6 @@ Solidity developer focused on DeFi. Building hooks, vaults, and yield mechanisms
 
 **Stack**: Solidity · Foundry · Solady · OpenZeppelin · viem · wagmi
 
-📫 eylulbalcilar@gmail.com
 
 <br>
 

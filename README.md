@@ -1,10 +1,9 @@
 ### Hi, I'm Eylül
 
-Solidity developer focused on DeFi. Building hooks, vaults, and yield mechanisms in Foundry.
+Solidity developer building on EVM, with a focus on DeFi mechanism design.
 
 **Recent work**
 - [holdfast-hook](https://github.com/eylulbalcilar/holdfast-hook) — Risk-weighted retention hook for Uniswap v4 (UHI9 capstone, deployed on Base Sepolia)
-- [points-hook-uhi](https://github.com/eylulbalcilar/points-hook-uhi) — Referral-based ERC-1155 points system
 
 **Stack**: Solidity · Foundry · Solady · OpenZeppelin · viem · wagmi
 

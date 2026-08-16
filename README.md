@@ -36,14 +36,3 @@ Frontend developer @Hyper Island.</p>
 </p>
 
 <br>
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=eylulbalcilar&show_icons=true&theme=radical&hide_border=true&count_private=true&card_width=420&hide_title=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eylulbalcilar&layout=compact&theme=radical&hide_border=true&card_width=420&hide_title=true&langs_count=8" />
-    </td>
-  </tr>
-</table>

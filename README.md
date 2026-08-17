@@ -1,9 +1,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=44&duration=1&pause=99999999&color=FFFFFF&center=false&vCenter=true&width=600&height=60&repeat=false&lines=Hi%2C+I'm+Eyl%C3%BCl" />
 
-<p>DeFi-focused Solidity developer | Uniswap Hook Incubator Cohort #9 Alumni<br>
-Frontend developer @Hyper Island.</p>
+<p> RWA focused Blockchain & Front End Development student @Hyper Island | Uniswap Hook Incubator Cohort #9 Alumni</p>
 
-<br>
 
 <p><kbd>&nbsp;RECENT WORK&nbsp;</kbd></p>
 

@@ -1,13 +1,23 @@
 <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=44&duration=1&pause=99999999&color=FFFFFF&center=false&vCenter=true&width=600&height=60&repeat=false&lines=Hi%2C+I'm+Eyl%C3%BCl" />
 
-<p> RWA focused Blockchain & Front End Development student @Hyper Island | Uniswap Hook Incubator Cohort #9 Alumni</p>
+<p> Blockchain Front End Development student @Hyper Island | Uniswap Hook Incubator Cohort #9 Alumni</p>
 
 
 <p><kbd>&nbsp;RECENT WORK&nbsp;</kbd></p>
 
 <p>
+<a href="https://github.com/eylulbalcilar/Borgen"><b>Borgen</b></a><br>
+<sub>Lending protocol on Base with identities and signed valuations on Neuro, deployed on Base Sepolia</sub>
+</p>
+
+<p>
+<a href="https://github.com/eylulbalcilar/uproof"><b>UProof</b></a><br>
+<sub>Field verification system for a UNICEF problem statement, 1st place at FIRSTBLOCK-ATHON 2026</sub>
+</p>
+
+<p>
 <a href="https://github.com/eylulbalcilar/holdfast-hook"><b>holdfast-hook</b></a><br>
-<sub>Risk-weighted retention hook for Uniswap v4 — Uniswap Hook Incubator capstone, deployed on Base Sepolia</sub>
+<sub>Risk-weighted retention hook for Uniswap v4, Uniswap Hook Incubator capstone, deployed on Base Sepolia</sub>
 </p>
 
 <br>

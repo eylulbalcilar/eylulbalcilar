@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=700&size=44&duration=1&pause=99999999&color=FFFFFF&center=false&vCenter=true&width=600&height=60&repeat=false&lines=Hi%2C+I'm+Eyl%C3%BCl" />
 
-<p> Blockchain Front End Development Intern @First Block | Uniswap Hook Incubator Cohort #9 Alumni</p>
+<p> Blockchain Development Intern @First Block | Uniswap Hook Incubator Cohort #9 Alumni</p>
 
 
 <p><kbd>&nbsp;RECENT WORK&nbsp;</kbd></p>
